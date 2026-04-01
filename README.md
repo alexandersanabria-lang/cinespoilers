@@ -6,7 +6,7 @@
 
 ## Ejecución de la aplicación
 
-![Ejecución de la aplicación](./docs/02-run.png)
+![Ejecución de la aplicación](./docs/6.png)
 
 ## Creación de primera aplicación
 
